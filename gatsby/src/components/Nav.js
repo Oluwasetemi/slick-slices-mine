@@ -89,7 +89,7 @@ function Nav() {
           <Link to="/pizzas">Pizza Menu</Link>
         </li>
         <li>
-          <Link to="/">
+          <Link className="logo-item" to="/">
             <Logo />
           </Link>
         </li>
